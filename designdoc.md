@@ -1,13 +1,18 @@
-Project: Create an open but secure private forum with nearly no moderation necessary/present.
-Platforms: Web browser access by a PC. No expressed Mobile Phone comptability at this time.*
-python version(s) = 2.7.3 or 3.5.2
-flask version(s) = 8.1.1 / 8.1.2
-Source-Openness: Open and on github.
+# georgioland
 
-Before reading this document be aware of a few things. 
-'-' denotes a section.
-'?' are put in places where a string is yet to be determined.
-'*' will have one placed to the right of unsure/unset item of the project.
+**Project**: Create an open but secure private forum with nearly no moderation necessary/present.
+
+**Platforms**: Web browser access by a PC. No expressed Mobile Phone comptability at this time.*
+
+`python version(s) = 2.7.3 or 3.5.2` <br>
+`flask version(s) = 8.1.1 / 8.1.2`
+
+**Source-Openness**: Open and on github.
+
+Before reading this document be aware of a few things. <br>
+'-' denotes a section. <br>
+'?' are put in places where a string is yet to be determined. <br>
+'*' will have one placed to the right of unsure/unset item of the project. <br>
 
 - The Home Page
 
