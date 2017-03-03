@@ -6,6 +6,7 @@
 
 `python version(s) = 2.7.3 or 3.5.2` <br>
 `flask version(s) = 8.1.1 / 8.1.2`
+`django version(s) = 1.10.6`
 
 **Source-Openness**: Open and on github.
 
@@ -20,7 +21,7 @@ Before reading this document be aware of a few things. <br>
 
   Georgioland is powered by heroku.
   heroku is a cloud hosting solution.
-  Project will be written primarily with python & flask.
+  Project will be written primarily with python & flask or django.
 
   The site will have standard EULA stuff about how we don't guarantee anything (as in the acceptability of sueing us if we fail to provide you what you expected in some way).
 
@@ -41,7 +42,7 @@ Before reading this document be aware of a few things. <br>
   IP numbers
   MAC addresses
   All streaming sites
-  Spammer (as in advertisement shit)
+  Spammer (as in advertisement crap)
   Spammer (merely posting too much in a short period)
   Embedding of custom scripts
   Images
@@ -95,7 +96,7 @@ Before reading this document be aware of a few things. <br>
   More User Stuff:
   Additionally a user may append/redact any key of their signature or profile details. But not to affect the existing data associated with the already made posts or PMs.
 
-  A user when registering has a non-mandatory email recovery option. As hinted before: a username is actually ascii art. To generate it you simply input a key (if it's not taken), then you're profile graphic is generated. Another key for authentication password is used. NO d.o.b/age/sex bullshit.
+  A user when registering has a non-mandatory email recovery option. As hinted before: a username is actually ascii art. To generate it you simply input a key (if it's not taken), then you're profile graphic is generated. Another key for authentication password is used. NO d.o.b/age/sex nonsense.
 
 
 - Donations:
